@@ -1,4 +1,4 @@
-package com.highfidelity.musicplayer.ui.theme
+package com.highfidelity.lisen.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

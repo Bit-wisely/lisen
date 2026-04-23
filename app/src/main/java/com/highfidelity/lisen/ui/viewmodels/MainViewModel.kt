@@ -1,9 +1,9 @@
-package com.highfidelity.musicplayer.ui.viewmodels
+package com.highfidelity.lisen.ui.viewmodels
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.highfidelity.musicplayer.data.MusicRepository
-import com.highfidelity.musicplayer.domain.model.Song
+import com.highfidelity.lisen.data.MusicRepository
+import com.highfidelity.lisen.domain.model.Song
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow

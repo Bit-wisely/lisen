@@ -1,4 +1,4 @@
-package com.highfidelity.musicplayer.ui.screens
+package com.highfidelity.lisen.ui.screens
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
@@ -15,8 +15,8 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.hilt.navigation.compose.hiltViewModel
-import com.highfidelity.musicplayer.domain.model.Song
-import com.highfidelity.musicplayer.ui.viewmodels.MainViewModel
+import com.highfidelity.lisen.domain.model.Song
+import com.highfidelity.lisen.ui.viewmodels.MainViewModel
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -28,7 +28,7 @@ fun MainScreen(
     Scaffold(
         topBar = {
             CenterAlignedTopAppBar(
-                title = { Text("HiFi Player", fontWeight = FontWeight.Bold) },
+                title = { Text("lisen", fontWeight = FontWeight.Bold) },
                 colors = TopAppBarDefaults.centerAlignedTopAppBarColors(
                     containerColor = MaterialTheme.colorScheme.background
                 )

@@ -1,4 +1,4 @@
-package com.highfidelity.musicplayer.playback
+package com.highfidelity.lisen.playback
 
 import androidx.media3.common.AudioAttributes
 import androidx.media3.common.C

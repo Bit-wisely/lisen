@@ -1,6 +1,6 @@
-# High-Fidelity Local Music Player (HiFi-Player)
+# lisen
 
-HiFi-Player is a premium, high-performance Android application designed for audiophiles who want to experience their local music downloads in the highest possible quality. 
+lisen is a premium, high-performance Android application designed for audiophiles who want to experience their local music downloads in the highest possible quality. 
 
 ## Key Features
 - **Lossless Support**: Play FLAC, WAV, and ALAC files at their native bitrates.

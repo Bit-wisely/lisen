@@ -1,4 +1,4 @@
-package com.highfidelity.musicplayer.ui.theme
+package com.highfidelity.lisen.ui.theme
 
 import android.app.Activity
 import android.os.Build
@@ -30,7 +30,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun HiFiMusicPlayerTheme(
+fun LisenTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     dynamicColor: Boolean = true,
     content: @Composable () -> Unit

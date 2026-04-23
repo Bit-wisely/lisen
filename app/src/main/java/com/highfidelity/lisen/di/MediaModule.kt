@@ -1,4 +1,4 @@
-package com.highfidelity.musicplayer.di
+package com.highfidelity.lisen.di
 
 import android.content.Context
 import androidx.media3.exoplayer.ExoPlayer

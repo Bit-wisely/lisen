@@ -1,7 +1,7 @@
-package com.highfidelity.musicplayer
+package com.highfidelity.lisen
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp
 
 @HiltAndroidApp
-class HiFiApplication : Application()
+class LisenApplication : Application()

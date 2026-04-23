@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "HiFi Music Player"
+rootProject.name = "lisen"
 include(":app")

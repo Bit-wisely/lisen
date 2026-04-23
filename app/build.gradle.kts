@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace = "com.highfidelity.musicplayer"
+    namespace = "com.highfidelity.lisen"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.highfidelity.musicplayer"
+        applicationId = "com.highfidelity.lisen"
         minSdk = 26
         targetSdk = 35
         versionCode = 1

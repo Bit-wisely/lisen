@@ -1,6 +1,6 @@
 # Technical Specification & Software Stack
 
-This document defines the architecture and the software tools used to build the **High-Fidelity Music Player**.
+This document defines the architecture and the software tools used to build **lisen**.
 
 ## 1. Development Environment
 - **IDE**: Android Studio (Ladybug 2024.2.1+)

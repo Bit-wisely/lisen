@@ -1,10 +1,10 @@
-package com.highfidelity.musicplayer.data
+package com.highfidelity.lisen.data
 
 import android.content.ContentUris
 import android.content.Context
 import android.net.Uri
 import android.provider.MediaStore
-import com.highfidelity.musicplayer.domain.model.Song
+import com.highfidelity.lisen.domain.model.Song
 import dagger.hilt.android.qualifiers.ApplicationContext
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext

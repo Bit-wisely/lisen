@@ -1,4 +1,4 @@
-package com.highfidelity.musicplayer.domain.model
+package com.highfidelity.lisen.domain.model
 
 import android.net.Uri
 
