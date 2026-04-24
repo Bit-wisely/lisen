@@ -4,7 +4,7 @@ This document defines the architecture and the software tools used to build **li
 
 ## 1. Development Environment
 - **IDE**: Android Studio (Ladybug 2024.2.1+)
-- **Build System**: Gradle (Kotlin DSL)
+- **Build System**: Gradle (Kotlin DSL)p
 - **Version Control**: Git / GitHub
 
 ## 2. Frameworks & Libraries
